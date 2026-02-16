@@ -96,3 +96,4 @@ RTAコミュニティで「公式大会以外の動画」として認められ�
 💡 感覚的には:
 「正規ROM＋互換機＋個人視聴」は比較的安全。「改造ROMや改造ハード」は注意が必要。
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S41UCRQ9)
